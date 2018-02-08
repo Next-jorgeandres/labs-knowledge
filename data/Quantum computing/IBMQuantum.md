@@ -7,13 +7,12 @@ La plataforma cloud IBM Quantum Experience permite empezar a aprender, invetigar
 IBM Research Lab
 
 ## Enlaces de interés y documentación (lista)
-**REQUERIDO**
-- https://quantumexperience.ng.bluemix.net/qx/experience
+- [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience)
 - [título o texto descriptivo](http://URL)
 
 ## Demo (lista)
 **REQUERIDO**
-- [título o texto descriptivo](http://URL)
+- [Algoritmo Grover](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=004-Quantum_Algorithms~2F070-Grover%27s_Algorithm)
 - [título o texto descriptivo](http://URL)
 
 ## Soporte audiovis al adyacente (lista)
