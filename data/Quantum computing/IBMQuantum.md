@@ -8,7 +8,7 @@ IBM Research Lab
 
 ## Enlaces de interés y documentación (lista)
 - [IBM Quantum Experience](https://quantumexperience.ng.bluemix.net/qx/experience)
-- [título o texto descriptivo](http://URL)
+- [Awesome Tutorial](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 
 ## Demo (lista)
 **REQUERIDO**
