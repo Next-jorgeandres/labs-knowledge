@@ -25,5 +25,4 @@ La plataforma cloud IBM Quantum Experience permite empezar a aprender, investiga
 Quantum
 
 ## Estado de la tecnología 
-**REQUERIDO**
 Work in progress
