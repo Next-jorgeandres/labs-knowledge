@@ -15,7 +15,7 @@ La plataforma cloud IBM Quantum Experience permite empezar a aprender, investiga
 - [Algoritmo Grover](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=004-Quantum_Algorithms~2F070-Grover%27s_Algorithm)
 
 ## Soporte audiovis al adyacente (lista)
-- [título o texto descriptivo](http://URL)
+- [Tutorial experimento](https://www.youtube.com/watch?v=pYD6bvKLI_c)
 
 ## Primeros pasos
 - [Beginners guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=beginners-guide&page=introduction)
